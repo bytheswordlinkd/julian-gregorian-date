@@ -1,0 +1,7 @@
+{
+	"@metadata": {
+		"authors": [ "Gavin Robinson" ]
+	},
+	"btsljgd-desc": "Adds <date> tag to display double dates in Julian and Gregorian calendars",
+	"btsljdg-i18n-welcome": "Welcome to the localization file of the JulianGregorianDate extension."
+}
