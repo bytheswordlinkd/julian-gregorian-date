@@ -36,9 +36,7 @@ For example, if you enter:
 
 You will get:
 
-Sunday 23 October 1642 JL / 2 November 1642 GR
-
-Calendar codes will be displayed as superscript in MediaWiki but that can't be done here in markdown.
+Sunday 23 October 1642 <sup>JL</sup> / 2 November 1642 <sup>GR</sup>
 
 ### Changing date formats
 
@@ -56,7 +54,7 @@ For example, if you enter:
 
 You will get:
 
-Sun 23 Oct 1642 JL / 2 Nov 1642 GR
+Sun 23 Oct 1642 <sup>JL</sup> / 2 Nov 1642 <sup>GR</sup>
 
 ### Using the tag with contents
 
@@ -68,7 +66,7 @@ For example, if you enter:
 
 The footnote after the text will contain:
 
-Sunday 23 October 1642 JL / 2 November 1642 GR
+Sunday 23 October 1642 <sup>JL</sup> / 2 November 1642 <sup>GR</sup>
 
 If you need to mark up a date that is already inside a footnote, you must use this attribute and value:
 
