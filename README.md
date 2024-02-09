@@ -9,7 +9,7 @@ This is an extension for MediaWiki. It provides a tag that displays double dates
 
 This extension has been tested with MediaWiki 1.35 and PHP 7.3.
 
-The PHP calendar module must be enabled. This is usually enabled by default but check phpinfo if you're not sure.
+The PHP calendar module must be enabled. This is usually enabled by default and is also required by MediaWiki.
 
 The Cite extension needs to be enabled in MediaWiki because this tag can create footnotes.
 
