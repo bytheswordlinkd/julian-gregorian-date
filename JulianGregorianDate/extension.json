@@ -4,7 +4,7 @@
 	"author": [
 		"Gavin Robinson"
 	],
-	"url": "https://www.bytheswordlinked.uk/wiki/Help:Dates",
+	"url": "https://github.com/bytheswordlinkd/julian-gregorian-date/",
 	"descriptionmsg": "btsljgd-desc",
 	"type": "parserhook",
 	"AutoloadClasses": {
