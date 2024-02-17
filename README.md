@@ -7,7 +7,7 @@ This is an extension for MediaWiki. It provides a tag that displays double dates
 
 ## Compatibility
 
-This extension has been tested with MediaWiki 1.35 and PHP 7.3.
+This extension has been tested with MediaWiki 1.35 and 1.39, and PHP 7.3 and 7.4.
 
 The PHP calendar module must be enabled. This is usually enabled by default and is also required by MediaWiki.
 
